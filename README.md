@@ -151,7 +151,7 @@ jupyter notebook
 
 ## 👩‍💻 Autora
 
-Desenvolvido por **Patricia** durante o Bootcamp **DIO + Bradesco**.
+Desenvolvido por **Patricia Correia** durante desafio conduzido pela professora **Dra. Isadora Ferrão** em Bootcamp **DIO + Bradesco**.
 
 [![DIO](https://img.shields.io/badge/Bootcamp-DIO%20%2B%20Bradesco-E30613?style=flat)](https://www.dio.me/)
 [![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
